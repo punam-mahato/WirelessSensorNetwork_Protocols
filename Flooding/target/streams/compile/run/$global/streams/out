@@ -1,0 +1,44 @@
+[0m[[0minfo[0m] [0mRunning Gossip 27 3DGrid[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/punam/Desktop/AHNNew/Flooding/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/com.typesafe.akka/akka-remote_2.11/jars/akka-remote_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/io.netty/netty/bundles/netty-3.8.0.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-2.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/punam/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread SinkActorSystem-akka.actor.default-dispatcher-9 to terminate.[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-12[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-12[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-9[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-9[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-scheduler-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-scheduler-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-10[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-10[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-11[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-11[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-13[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-13[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-8[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-8[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SinkActorSystem-akka.actor.default-dispatcher-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted SinkActorSystem-akka.actor.default-dispatcher-5[0m
+[0m[[0mdebug[0m] [0m	Thread SinkActorSystem-akka.actor.default-dispatcher-9 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
